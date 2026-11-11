@@ -3,8 +3,8 @@
     "batracer-setup-manager@myproject.local": {
       "updates": [
         {
-          "version": "2.0.3",
-          "update_link": "https://github.com/jakub-iglar-dev/batracer-extension-updates/releases/download/v2.0.3/batracer-setup-manager-2.0.3.xpi"
+          "version": "2.0.4",
+          "update_link": "https://github.com/jakub-iglar-dev/batracer-extension-updates/releases/download/v2.0.4/batracer-setup-manager-2.0.4.xpi"
         }
       ]
     }
