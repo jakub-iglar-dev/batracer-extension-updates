@@ -17,6 +17,8 @@ The extension source is prepared as version `2.0.4`, and `update.json` is config
 
 Do not publish an update manifest entry until its signed XPI is publicly available; Firefox needs both the manifest and the downloadable package.
 
+An already-installed version without `browser_specific_settings.gecko.update_url` cannot discover this update service. Install the signed `2.0.4` XPI manually once; later updates can be delivered through this manifest.
+
 ## Publishing later updates
 
 For each release:
